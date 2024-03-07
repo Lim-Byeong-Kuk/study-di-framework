@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.di.BeanFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-07T05:30:23" hostname="DESKTOP-MCMP3VQ" time="0.135">
+  <properties/>
+  <testcase name="diTest()" classname="org.example.di.BeanFactoryTest" time="0.135"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
